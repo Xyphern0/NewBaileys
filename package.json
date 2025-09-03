@@ -12,7 +12,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Kazee",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -47,7 +47,8 @@
     "music-metadata": "^11.7.0",
     "pino": "^9.6",
     "protobufjs": "^7.2.4",
-    "ws": "^8.13.0"
+    "ws": "^8.13.0",
+		"qrcode": "^1.5.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
