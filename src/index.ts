@@ -1,4 +1,3 @@
-  GNU nano 8.6           index.ts
 // --- Banner Log ---
 // \x1b[33m = kuning, \x1b[0m = reset warna
 console.log("\x1b[33m%s\x1b[0m", "Thanks you for usin>
